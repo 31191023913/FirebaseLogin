@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Notregisteredyet">Not registered yet</string>
+    <string name="Registerhere">Register here</string>
+    <string name="Alreadyregistered">Already registered</string>
+    <string name="Loginhere">Login here</string>
+    <string name="Logout">Logout</string>
+    <string name="W">Welcome, You are logged in</string>
+</resources>
